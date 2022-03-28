@@ -55,6 +55,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![Blender](https://img.shields.io/badge/Blender-D83B01?style=for-the-badge&logo=Blender&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion360-D83B01?style=for-the-badge&logo=Fusion360&logoColor=white)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
